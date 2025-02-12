@@ -11,8 +11,8 @@ My Skills:
 ●Cross-Platform Development: Xamarin.Forms, Flutter SDK<br/>
 ●Programming Languages: C#, Dart, JavaScript<br/>
 ●UI Frameworks: XAML, Flutter Widgets<br/>
-●Front-End Development: HTML, CSS, Bootstrap, Material Design<br/>
-●Back-End Integration: RESTful APIs, JSON, XML<br/>
+●Front-End Development: HTML, CSS, Bootstrap, Material Design, React, Next<br/>
+●Back-End Development: RESTful APIs, JSON, XML, Node.js, Python<br/>
 ●Database Integration: SQLite, Firebase Realtime Database<br/>
 ●Version Control: Git, GitHub, Bitbucket<br/>
 ●Testing and Debugging: Xamarin Test Cloud, Flutter Testing<br/>
