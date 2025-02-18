@@ -7,7 +7,7 @@
 
 My Skills:
 
-●Mobile Development: .NET MAUI, Xamarin, Flutter, React Native<br/>
+●Mobile Development: Flutter, React Native, .NET MAUI, Xamarin<br/>
 ●Cross-Platform Development: Xamarin.Forms, Flutter SDK<br/>
 ●Programming Languages: C#, Dart, JavaScript<br/>
 ●UI Frameworks: XAML, Flutter Widgets<br/>
